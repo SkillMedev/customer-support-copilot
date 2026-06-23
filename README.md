@@ -1,8 +1,8 @@
 # Customer Support Copilot
 
-**Six skills to resolve faster, escalate smarter, and turn tickets into self-service.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
+**For support teams: resolve in one touch, escalate cleanly, deflect with self-service.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
 
-Customer Support Copilot equips support agents and team leads with skills for the full ticket lifecycle — from drafting empathetic one-touch replies to analyzing CSAT verbatims for root causes. Each skill is built around real support workflows: macros that stay human, escalations that get read, and de-escalation that actually works.
+Reach for this when you run a support queue and want every ticket to end in a resolution, not a follow-up. Seven skills cover the ticket lifecycle: draft empathetic one-touch replies, build a macro library that still sounds human, de-escalate angry customers and communicate refund decisions safely, write escalations engineering will actually act on, mine CSAT verbatims for the root causes worth fixing, turn resolved tickets into KB articles that deflect the next wave, and diagnose churn to build segmented retention playbooks. The outcome: faster resolutions, smarter escalations, and a queue that shrinks as self-service grows.
 
 ⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
 
