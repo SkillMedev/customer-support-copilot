@@ -9,7 +9,7 @@ Reach for this when you run a support queue and want every ticket to end in a re
 ## Install
 
 - **From the catalog:** [skillme.dev/pack/customer-support-copilot](https://skillme.dev/pack/customer-support-copilot) — install the whole pack into Claude in one step.
-- **With the skills CLI:** `npx skills add aouellets/customer-support-copilot`
+- **With the skills CLI:** `npx skills add SkillMedev/customer-support-copilot`
 - **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
 
 ## Skills in this pack
