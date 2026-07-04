@@ -32,6 +32,14 @@ Write macros to match the brand voice guide. If no guide exists, define three ad
 
 Review the full macro library quarterly. Archive macros unused in 60 days. Flag macros with CSAT scores below the team average for rewrite. Assign macro ownership — each bucket has one owner responsible for accuracy.
 
+## Deliverable
+
+Produce a macro library document (or helpdesk import) containing: (1) the bucket taxonomy with the top ticket categories mapped into five to eight parents; (2) the full set of macros, each named '[Bucket] — [Specific Scenario]' and written in the three-zone structure under 150 words; (3) the token reference sheet listing every [[token]] and where its value comes from; (4) a one-page voice guide (or the three brand adjectives used as the filter); and (5) the maintenance plan — quarterly review date, per-bucket owners, and the archive/rewrite triggers.
+
+## Quality bar
+
+A library is ready to publish only when: every macro belongs to exactly one bucket and follows the naming pattern; every macro is under 150 words with all three zones present; every personalization token appears in the shared reference sheet; each new macro has passed a senior-agent voice review; and every bucket has a named owner and a scheduled review.
+
 ## What to avoid
 
 - Do not create macros for edge cases that occur fewer than twice a month; handle those manually.

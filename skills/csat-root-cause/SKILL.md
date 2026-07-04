@@ -27,8 +27,21 @@ Report findings as: the top three to five themes by priority, with verbatim exam
 
 Escalate immediately if any single theme appears in more than 15% of detractor verbatims within a 30-day window, or if average CSAT for a theme drops below 2.5/5. These thresholds indicate systemic failure, not statistical noise.
 
+## Deliverable
+
+Produce a root-cause report containing: the coded verbatim dataset (every comment tagged with one Level 1 and one Level 2 code), the frequency-by-impact matrix, the top three to five prioritized themes each with two or three representative verbatims, a proposed fix and named owner per theme, and the success metric that will show in the data when each fix has worked.
+
 ## What to avoid
 
 - Do not present word clouds — they conflate frequency with font size and obscure causality.
 - Do not conflate correlation with causation; a theme appearing alongside low scores does not prove it caused the low score without further validation.
 - Do not analyze fewer than 30 verbatims; sample size below that produces unreliable theme distributions.
+- Do not pool detractor and promoter comments into one analysis — the same theme (e.g. pricing) means different things in each population.
+- Do not report a theme supported by fewer than 5 verbatims as a trend; call it an edge case and monitor it.
+
+## Quality bar
+
+- Every theme is scored on both frequency and impact — never prioritized on mention count alone.
+- Each reported theme carries a proposed action, an owner, and a success metric, not just a description.
+- Detractors and promoters are analyzed separately, and the escalation thresholds (15% of detractors in 30 days, theme CSAT below 2.5/5) are checked explicitly.
+- Verbatim examples are quoted, not paraphrased, so the reader can audit the coding.
