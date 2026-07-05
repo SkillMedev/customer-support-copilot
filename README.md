@@ -14,13 +14,13 @@ Reach for this when you run a support queue and want every ticket to end in a re
 
 ## Skills in this pack
 
-- **[Support Ticket Reply](skills/support-ticket-reply/SKILL.md)** — Drafts empathetic, accurate, action-first support replies structured to resolve the ticket in one touch — resolution first, context second, one unambiguous next step.
+- **[Support Ticket Reply](skills/support-ticket-reply/SKILL.md)** — Drafts empathetic, accurate, action-first support replies structured to resolve the ticket in one touch - resolution first, context second, one unambiguous next step.
 - **[Support Macro Library](skills/support-macro-library/SKILL.md)** — Designs a reusable macro and canned-response library that stays human and on-brand.
 - **[Escalation Summary](skills/escalation-summary/SKILL.md)** — Writes a tight escalation summary to engineering or management with a one-line headline, quantified customer impact, repro steps, prior attempts, and a single clear ask.
 - **[CSAT Root Cause Analysis](skills/csat-root-cause/SKILL.md)** — Analyzes CSAT and NPS verbatims to surface root-cause themes and prioritize fixes by frequency and impact.
 - **[Knowledge Base Article Writer](skills/kb-article-writer/SKILL.md)** — Turns a resolved support ticket into a clear, searchable knowledge-base or help center article.
 - **[Refund and De-escalation](skills/refund-deescalation/SKILL.md)** — Handles angry customers and refund requests with a validate-own-act de-escalation sequence and a refund decision matrix that weighs refund cost against customer LTV and chargeback risk.
-- **[Churn Reduction](skills/churn-reduction/SKILL.md)** — Diagnoses SaaS churn root causes through cohort analysis and a seven-category taxonomy, then builds segmented intervention playbooks ranked by frequency, revenue at stake, and addressability — including save-offer economics.
+- **[Churn Reduction](skills/churn-reduction/SKILL.md)** — Diagnoses SaaS churn root causes through cohort analysis and a seven-category taxonomy, then builds segmented intervention playbooks ranked by frequency, revenue at stake, and addressability - including save-offer economics.
 
 ## License
 
