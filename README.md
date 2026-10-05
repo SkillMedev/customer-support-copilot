@@ -1,16 +1,17 @@
 # Customer Support Copilot
 
-**For support teams: resolve in one touch, escalate cleanly, deflect with self-service.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
+**For support teams: resolve in one touch, escalate cleanly, deflect with self-service.** — built in-house by [Skill&nbsp;Me](https://skillme.dev/?utm_source=github&utm_medium=readme&utm_campaign=pack-customer-support-copilot).
 
 Reach for this when you run a support queue and want every ticket to end in a resolution, not a follow-up. Seven skills cover the ticket lifecycle: draft empathetic one-touch replies, build a macro library that still sounds human, de-escalate angry customers and communicate refund decisions safely, write escalations engineering will actually act on, mine CSAT verbatims for the root causes worth fixing, turn resolved tickets into KB articles that deflect the next wave, and diagnose churn to build segmented retention playbooks. The outcome: faster resolutions, smarter escalations, and a queue that shrinks as self-service grows.
 
-⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
-
 ## Install
 
-- **From the catalog:** [skillme.dev/pack/customer-support-copilot](https://skillme.dev/pack/customer-support-copilot) — install the whole pack into Claude in one step.
+- **Claude, ChatGPT, Codex, Cursor (connector):** [install the whole pack from skillme.dev](https://skillme.dev/pack/customer-support-copilot?utm_source=github&utm_medium=readme&utm_campaign=pack-customer-support-copilot) — one connection, then ask for any skill by name.
+- **As files for Codex, Cursor, or Claude Code:** `npx @skillme/cli add support-ticket-reply support-macro-library escalation-summary csat-root-cause kb-article-writer refund-deescalation churn-reduction --target all`
 - **With the skills CLI:** `npx skills add SkillMedev/customer-support-copilot`
-- **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
+- **Manually:** copy any `skills/<slug>/SKILL.md` into `.agents/skills/`, `.cursor/skills/`, or `.claude/skills/`.
+
+⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
 
 ## Skills in this pack
 
@@ -25,4 +26,4 @@ Reach for this when you run a support queue and want every ticket to end in a re
 ## License
 
 MIT — see [LICENSE](LICENSE). Skills are portable `SKILL.md` files; the canonical
-copies live in the [Skill&nbsp;Me catalog](https://skillme.dev).
+copies live in the [Skill&nbsp;Me catalog](https://skillme.dev/browse?utm_source=github&utm_medium=readme&utm_campaign=pack-customer-support-copilot).
